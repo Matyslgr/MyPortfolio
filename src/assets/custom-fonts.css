@@ -1,0 +1,16 @@
+/* Exemple avec Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+
+@font-face {
+  font-family: 'Home';
+  src: url('Fonts/home.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'BoldenVan';
+  src: url('Fonts/BoldenVan.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
