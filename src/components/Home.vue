@@ -56,7 +56,7 @@ export default {
   font-family: "Home", sans-serif;
   font-style: normal;
   position: relative;
-  top: -65vh;
+  top: -60vh;
   left: 62vw;
 }
 .social-bar {
